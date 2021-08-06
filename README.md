@@ -2,12 +2,12 @@
 
 Speech corpus for Catalan. The version 2.0 corpus can be downloaded in parts:
 
-[clean_train](http://laklak.eu/share/clean_train.tar.gz)
-[clean_test](http://laklak.eu/share/clean_test.tar.gz)
-[clean_dev](http://laklak.eu/share/clean_dev.tar.gz)
-[other_train](http://laklak.eu/share/other_train.tar.gz)
-[other_test](http://laklak.eu/share/other_test.tar.gz)
-[other_dev](http://laklak.eu/share/other_dev.tar.gz)
+* [clean_train](http://laklak.eu/share/clean_train.tar.gz)
+* [clean_test](http://laklak.eu/share/clean_test.tar.gz)
+* [clean_dev](http://laklak.eu/share/clean_dev.tar.gz)
+* [other_train](http://laklak.eu/share/other_train.tar.gz)
+* [other_test](http://laklak.eu/share/other_test.tar.gz)
+* [other_dev](http://laklak.eu/share/other_dev.tar.gz)
 
 ## Corpus information
 
@@ -34,20 +34,15 @@ other quality segments. The stat details are as follows:
 | other_test  | M        |   2.631    |
 | other_dev   | M        |   2.513    |
 | other_train | M        |  280.196   |
-|-------------|----------|------------|
-| other total |          |  400.239   |
-|-------------|----------|------------|
-|-------------|----------|------------|
+|*other total*|          |  400.239   |
 | clean_test  | F        |   2.707    |
 | clean_dev   | F        |   2.576    |
 | clean_train | F        |   77.905   |
 | clean_test  | M        |   2.516    |
 | clean_dev   | M        |   2.614    |
 | clean_train | M        |  123.162   |
-|-------------|----------|------------|
-| clean total |          |   211.48   |
-|-------------|----------|------------|
-| Total       |          |  611.719   |
+|*clean total*|          |   211.48   |
+|*Total*      |          |  611.719   |
 
 For more information go to <https://collectivat.cat/asr>
 

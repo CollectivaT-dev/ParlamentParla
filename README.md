@@ -26,7 +26,7 @@ and the Barcelona Supercomputing Center.
 As of v2.0 the corpus is separated into 211 hours of clean and 400 hours of
 other quality segments. The stat details are as follows:
 
-| Subcorpus   | Gender   |  Duration  |
+| Subcorpus   | Gender   |  Duration (h) |
 |-------------|----------|------------|
 | other_test  | F        |   2.516    |
 | other_dev   | F        |   2.701    |

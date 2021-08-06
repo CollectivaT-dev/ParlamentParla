@@ -21,7 +21,9 @@ of use](https://www.parlament.cat/pcat/serveis-parlament/avis-legal/).
 
 Preparation of this corpus was partly supported by the [Department of
 Culture](http://cultura.gencat.cat/) of the Catalan autonomous government,
-and the Barcelona Supercomputing Center.
+and the v2.0 was supported by the Barcelona Supercomputing Center, within
+the framework of the project [AINA](http://aina.gencat.cat/) of the 
+[Departament de Polítiques Digitals](https://politiquesdigitals.gencat.cat).
 
 As of v2.0 the corpus is separated into 211 hours of clean and 400 hours of
 other quality segments. The stat details are as follows:

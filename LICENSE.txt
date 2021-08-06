@@ -1,0 +1,21 @@
+Copyright (c) 2008-2018 Parlament de Catalunya
+Copyright (c) 2021 Bacelona Supercomputing Center - Col·lectivat SCCL
+
+The ParlamentParla speech corpus is distributed under a Creative Commons
+Attribution 4.0 International (CC BY 4.0) license. For details see
+<https://creativecommons.org/licenses/by/4.0/>
+
+The audio files and transcriptions that are the basis of the corpus are the 
+property of Parlament de Catalunya (Parliament of Catalonia). Any derivative
+work needs to refer to Parlament de Catalunya as the original owner of the
+content and confirm with their terms of use as explained in their website.
+<https://www.parlament.cat/pcat/serveis-parlament/avis-legal/>
+
+The transcriptions of the audio corpus are processed version of the 
+parliamentary session transcriptions, that are available in the website of
+Parlament de Catalunya, from which we have obtained the pdf files on 09/08/2018
+<https://www.parlament.cat/web/documentacio/transcripcions/transcripcions-ple/>
+
+Likewise the audio segments in this corpus are processed from the original
+media files of Parlament de Catalunya which were downloaded from their
+website on 07/11/2018.

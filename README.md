@@ -11,8 +11,8 @@ Speech corpus for Catalan. The version 2.0 corpus can be downloaded in parts:
 
 ## Corpus information
 
-This is the ParlamentParla speech corpus for Catalan. The audio segments were
-extracted from recordings the Catalan Parliament Catalan Parliament 
+This is the ParlamentParla speech corpus for Catalan prepared by Col·lectivaT
+SCCL. The audio segments were extracted from recordings the Catalan Parliament 
 ([Parlament de Catalunya](https://www.parlament.cat/)) plenary sessions. We
 aligned the transcriptions with the recordings and extracted the corpus. 
 The content belongs to the Catalan Parliament and the data is 
